@@ -1,0 +1,239 @@
+D:\U\Base de datos\Proyecto\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+D:\U\Base de datos\Proyecto\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+D:\U\Base de datos\Proyecto\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+D:\U\Base de datos\Proyecto\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+D:\U\Base de datos\Proyecto\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
+D:\U\Base de datos\Proyecto\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.AssemblyReference.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Form2.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Form3.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CopyComplete
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v1\Clinica\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.AssemblyReference.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Form2.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Form3.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CopyComplete
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Clinica\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.AssemblyReference.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.Form2.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.Form3.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.Form4.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CopyComplete
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2\Proyecto Bases de datos\Proyecto Bases de datos\Proyecto Bases de datos\ClinicaV3\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.AssemblyReference.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.Form2.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.Form3.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.Form4.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CopyComplete
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ENFERMERA Y OFICIAL\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.AssemblyReference.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.Form2.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.Form3.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.Form4.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CopyComplete
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos v2 - DATOS, ENFERMERA, OFICIAL\Proyecto Bases de datos\Versiones\v2 - MODIFICACIONES ANDRES Y ANGELO\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.AssemblyReference.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form2.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form3.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form4.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CopyComplete
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+C:\Users\amart\Downloads\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.AssemblyReference.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form2.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form3.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form4.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CopyComplete
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+C:\Users\eandr\Downloads\Proyecto Bases de datos\Proyecto Bases de datos\Programa\v3\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.exe
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.deps.json
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.runtimeconfig.json
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.AssemblyReference.cache
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form1.resources
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form2.resources
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form3.resources
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Form4.resources
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.Properties.Resources.resources
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.GenerateResource.cache
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfoInputs.cache
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.AssemblyInfo.cs
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.csproj.CopyComplete
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\refint\Clinica.dll
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.pdb
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\Clinica.genruntimeconfig.cache
+C:\Users\amart\Downloads\Proyecto BD FINAL\Programa\v3\Clinica\obj\Debug\net7.0-windows\ref\Clinica.dll
